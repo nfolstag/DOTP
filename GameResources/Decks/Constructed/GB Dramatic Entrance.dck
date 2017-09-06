@@ -1,0 +1,29 @@
+[metadata]
+Name=GB Dramatic Entrance
+[Main]
+3 Damnation|PLC
+3 Dramatic Entrance|SHM
+3 Farseek|C16
+1 Forest|THS|1
+1 Forest|THS|4
+3 Greenwarden of Murasa|BFZ
+1 Harmonize|EMA
+4 Hero's Downfall|THS
+4 Hissing Quagmire|OGW
+4 Obstinate Baloth|M11
+4 Overgrown Tomb|RTR
+3 Primeval Titan|MM2
+2 Rhonas the Indomitable|AKH
+4 Somberwald Sage|AVR
+2 Swamp|THS|4
+2 Sylvan Caryatid|THS
+4 Temple of Malady|JOU
+1 Terra Stomper|ORI
+1 Tooth and Nail|MMA
+4 Twilight Mire|EVE
+4 Woodland Cemetery|ISD
+2 Worldspine Wurm|RTR
+[Sideboard]
+3 Gaea's Revenge|ORI
+4 Languish|C16
+3 Terra Stomper|ORI

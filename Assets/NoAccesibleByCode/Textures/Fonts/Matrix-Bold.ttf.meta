@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 141a6e260855ae9429d3a1dd7d7b5a82
+timeCreated: 1501045374
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Matrix
+  fontNames:
+  - Matrix
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
